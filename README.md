@@ -1,8 +1,9 @@
-# TMS
+# NodeJs crud api with all fuctionality
+# added import csv/txt file in mongoDb 
 
 ## Set up environment
 
-## adding some stuff
+## we have added promisses,logger,import registrations,unique validations,etc..
 
 ### Install Node.js
 
@@ -14,26 +15,19 @@ Install [MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-wi
 
 ## Installation
 
-### Clone the repository
-
-```
-$ git clone https://github.com/medaminebouz/TMS-3SPAY.git
-$ cd runner
-```
-
 ### Download dependencies
 
 ```
-$ yarn install
+$ yarn install or npm install
 ```
 
 ### Launch
 
 ```
 $ cd ..
-$ yarn run dev
+$ npm/yarn run dev
 ```
 
 ### Documentation
 
-For more information on tms visit website URL.
+For more information on tms visit website URL. https://codelength.net
